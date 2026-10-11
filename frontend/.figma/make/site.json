@@ -1,0 +1,10 @@
+{
+  "description": "This web application helps users report lost items and find matches, streamlining the process for individuals and staff to manage lost and found efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
